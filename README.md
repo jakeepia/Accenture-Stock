@@ -1,3 +1,3 @@
 # Accenture Stock History Analysis (2019-2021)
 
-![](Accenture.JPG)
+![](Accenture_img.jpg)
