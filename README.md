@@ -15,3 +15,8 @@ Using carefully designed bar charts that show the Total Volume, Total High, Tota
 ### Average Price Insights:
 Explore the average open, high, low, and close prices for Accenture's stock to gain insight into the nuances of market movements.  By condensing the abundance of data into understandable averages, my analysis gives you the ability to identify trends and make wise judgments.
 
+# Dashboard
+
+![](Accenture.JPG)
+
+[Link here](https://app.powerbi.com/groups/me/reports/9cddf198-8e4e-44db-8a4f-e17890e91e41/ReportSection?experience=power-bi)
