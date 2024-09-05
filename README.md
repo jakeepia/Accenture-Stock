@@ -10,7 +10,7 @@ The dataset (CSV file) for this analysis is attached and the workspace used is *
 ## Analysis Highlights:
 
 ### 1- Forecasting with Excel:
-Applying forecasting formulas in Microsoft Excel, I project the stock's trajectory for the next 30 days, specifically targeting October 2021. This forward-looking approach utilizes historical data patterns to make informed predictions, aiding investors and analysts in making strategic decisions.
+Applying forecasting formulas in Excel, I project the stock's trajectory for the next 30 days, specifically targeting October 2021. This forward-looking approach utilizes historical data patterns to make informed predictions, aiding investors and analysts in making strategic decisions.
 
 ### 2- Bar Chart Analysis: 
 Visualizing the total volume, high, low, and open prices for Accenture from 2019 to 2021 provides a clear snapshot of stock trends. Bar charts effectively illustrate the yearly fluctuations in these key parameters.
@@ -18,7 +18,7 @@ Visualizing the total volume, high, low, and open prices for Accenture from 2019
 ### 3- Average Price Analysis:
 Calculating the annual averages for open, high, low, and close prices further refines my analysis. This allows us to identify patterns, potential anomalies, and gain a nuanced understanding of the stock's overall performance in each respective year.
 
-# Dashboard
+## Dashboard
 
 ![](Accenture.JPG)
 
