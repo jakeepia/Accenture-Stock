@@ -10,22 +10,22 @@ The dataset (CSV file) for this analysis is attached and the workspace used is *
 ## Analysis Highlights:
 
 ### 1- Forecasting with Excel:
-Applying Forecasting formulas in Microsoft Excel, I project the stock's trajectory for the next 30 days, specifically targeting October 2021. This forward-looking approach utilizes historical data patterns to make informed predictions, aiding investors and analysts in making strategic decisions.
+Applying forecasting formulas in Microsoft Excel, I project the stock's trajectory for the next 30 days, specifically targeting October 2021. This forward-looking approach utilizes historical data patterns to make informed predictions, aiding investors and analysts in making strategic decisions.
 
 ### 2- Bar Chart Analysis: 
-Visualizing the Total Volume, High, Low, and Open prices for Accenture from 2019 to 2021 provides a clear snapshot of stock trends. Bar charts effectively illustrate the yearly fluctuations in these key parameters.
+Visualizing the total volume, high, low, and open prices for Accenture from 2019 to 2021 provides a clear snapshot of stock trends. Bar charts effectively illustrate the yearly fluctuations in these key parameters.
 
 ### 3- Average Price Analysis:
-Calculating the Annual Averages for Open, High, Low, and Close prices further refines my analysis. This allows us to identify patterns, potential anomalies, and gain a nuanced understanding of the stock's overall performance in each respective year.
+Calculating the annual averages for open, high, low, and close prices further refines my analysis. This allows us to identify patterns, potential anomalies, and gain a nuanced understanding of the stock's overall performance in each respective year.
 
 # Dashboard
 
 ![](Accenture.JPG)
 
 ## key Insights:
-- **Average Prices:** The Open, High, Low, and Close prices remained fairly stable over the years, with averages around $220–$224.
-- **Trading Volume:** There was a significant spike in Volume in 2020 (587M), followed by a decline in 2021 (427M).
-- **Price Trends:** Both the Highest and Lowest prices increased in 2021, indicating growing market volatility.
+- **Average Prices:** The open, high, low, and close prices remained fairly stable over the years, with averages around $220–$224.
+- **Trading Volume:** There was a significant spike in volume in 2020 (587M), followed by a decline in 2021 (427M).
+- **Price Trends:** Both the highest and lowest prices increased in 2021, indicating growing market volatility.
 
 ## Recommendation:
 Monitor future price movements closely, as increasing price volatility in 2021 could signal further fluctuations, while the decline in trading volume may suggest reduced market participation or interest.
