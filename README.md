@@ -1,6 +1,6 @@
 # Accenture Stock History Analysis (2019-2021)
 
-![](intro.JPG)
+![](intro1.JPG)
 
 ## Overview:
 Explore the dynamic world of Accenture stock with my comprehensive data analysis project covering the stock history from 2019 to 2021. Leveraging a dataset sourced from Kaggle, I delve into key metrics, unveil trends, and employ forecasting techniques for a deeper understanding of Accenture's market performance. <br>
