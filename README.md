@@ -22,7 +22,7 @@ Calculating the Annual Averages for Open, High, Low, and Close prices further re
 
 ![](Accenture.JPG)
 
-## key insights:
+## key Insights:
 - **Average Prices:** The Open, High, Low, and Close prices remained fairly stable over the years, with averages around $220–$224.
 - **Trading Volume:** There was a significant spike in Volume in 2020 (587M), followed by a decline in 2021 (427M).
 - **Price Trends:** Both the Highest and Lowest prices increased in 2021, indicating growing market volatility.
