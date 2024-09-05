@@ -5,7 +5,7 @@
 ## Overview:
 Explore the dynamic world of Accenture stock with my comprehensive data analysis project covering the stock history from 2019 to 2021. Leveraging a dataset sourced from Kaggle, I delve into key metrics, unveil trends, and employ forecasting techniques for a deeper understanding of Accenture's market performance. <br>
 
-The dataset (CSV file) for this analysis is attached and the workspace used is **Power BI** 
+The dataset for this analysis is a CSV file, and the tool used is **Power BI** 
 
 ## Analysis Highlights:
 
